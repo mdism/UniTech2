@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UniTech</string>
+    <string name="number0">send 0</string>
+    <string name="number1">send 1</string>
+    <string name="number2">send 2</string>
+    <string name="number3">send 3</string>
+    <string name="number4">send 4</string>
+    <string name="number5">send 5</string>
+    <string name="number6">send 6</string>
+    <string name="number7">send 7</string>
+    <string name="str_Setting">Setting</string>
+    <string name="str_Ip">IP Adderss</string>
+    <string name="str_Port">Port id</string>
+    <string name="str_SalveID">Slave id</string>
+    <string name="str_DisplayRegister">Display Redister Address</string>
+    <string name="str_ButtonAddress">Button Register Address</string>
+</resources>
